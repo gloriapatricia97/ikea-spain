@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8916,
+          41.6075
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Zaragoza",
+        "cmp_short_name": "Zaragoza",
+        "opening_date": "2007-05-22 00:00:00.000000 UTC",
+        "year_opening": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4825,
+          36.6583
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Malaga",
+        "cmp_short_name": "M\u00e1laga",
+        "opening_date": "2007-10-30 00:00:00.000000 UTC",
+        "year_opening": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4228,
+          43.3483
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA A Coru\u00f1a",
+        "cmp_short_name": "A Coru\u00f1a",
+        "opening_date": "2010-07-20 00:00:00.000000 UTC",
+        "year_opening": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1622,
+          36.6974
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Jerez",
+        "cmp_short_name": "Jerez",
+        "opening_date": "2010-04-20 00:00:00.000000 UTC",
+        "year_opening": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6829,
+          40.4258
+        ]
+      },
+      "properties": {
+        "cmp_name": "City Shop Goya",
+        "cmp_short_name": null,
+        "opening_date": "2018-07-10 00:00:00.000000 UTC",
+        "year_opening": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2242,
+          41.459
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Barcelona - Badalona",
+        "cmp_short_name": "Badalona",
+        "opening_date": "1996-05-15 00:00:00.000000 UTC",
+        "year_opening": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6171,
+          37.2126
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Granada",
+        "cmp_short_name": "Granada",
+        "opening_date": "2018-12-01 00:00:00.000000 UTC",
+        "year_opening": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0072,
+          43.2921
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Bilbao - Barakaldo",
+        "cmp_short_name": "Barakaldo",
+        "opening_date": "2005-03-01 00:00:00.000000 UTC",
+        "year_opening": 2005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1238,
+          41.3549
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Barcelona - Hospitalet, Gran Via",
+        "cmp_short_name": "Hospitalet (Gran V\u00eda)",
+        "opening_date": "2003-04-24 00:00:00.000000 UTC",
+        "year_opening": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1068,
+          41.5105
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Barcelona - Sabadell",
+        "cmp_short_name": "Sabadell",
+        "opening_date": "2012-12-04 00:00:00.000000 UTC",
+        "year_opening": 2012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0472,
+          37.3839
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Sevilla",
+        "cmp_short_name": "Sevilla",
+        "opening_date": "2004-01-21 00:00:00.000000 UTC",
+        "year_opening": 2004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2038,
+          41.126
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Tarragona",
+        "cmp_short_name": "Tarragona",
+        "opening_date": "2020-06-05 00:00:00.000000 UTC",
+        "year_opening": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7959,
+          41.6219
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Valladolid",
+        "cmp_short_name": "Valladolid",
+        "opening_date": "2011-12-20 00:00:00.000000 UTC",
+        "year_opening": 2011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5965,
+          40.3696
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Madrid - Ensanche de Vallecas",
+        "cmp_short_name": "Ensanche de Vallecas",
+        "opening_date": "2007-08-07 00:00:00.000000 UTC",
+        "year_opening": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8058,
+          43.3882
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Asturias",
+        "cmp_short_name": "Asturias",
+        "opening_date": "2005-06-07 00:00:00.000000 UTC",
+        "year_opening": 2005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8525,
+          40.3439
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Madrid - Alcorcon",
+        "cmp_short_name": "Alcorcon",
+        "opening_date": "1996-09-25 00:00:00.000000 UTC",
+        "year_opening": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1461,
+          38.0276
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Murcia",
+        "cmp_short_name": "Murcia",
+        "opening_date": "2006-02-28 00:00:00.000000 UTC",
+        "year_opening": 2006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4,
+          39.4169
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Valencia - Alfafar",
+        "cmp_short_name": "Valencia (Alfafar)",
+        "opening_date": "2014-06-17 00:00:00.000000 UTC",
+        "year_opening": 2014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6119,
+          40.5461
+        ]
+      },
+      "properties": {
+        "cmp_name": "IKEA Madrid - San Sebasti\u00e1n de los Reyes",
+        "cmp_short_name": "San Sebasti\u00e1n de los Reyes",
+        "opening_date": "1999-04-14 00:00:00.000000 UTC",
+        "year_opening": 1999
+      }
+    }
+  ]
+}
